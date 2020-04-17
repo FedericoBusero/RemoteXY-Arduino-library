@@ -49,6 +49,7 @@
     #define REMOTEXY_CLOUD_SERVER "cloud.remotexy.com" // for Cloud
     #define REMOTEXY_CLOUD_PORT 6376  // for Cloud
     #define REMOTEXY_ACCESS_PASSWORD "1" 
+    #define REMOTEXY_BLUETOOTH_NAME "RemoteXY"
 
    Debug log info on 115200 (define before include this library):
     #define REMOTEXY__DEBUGLOGS Serial
